@@ -23,7 +23,11 @@
 # merged: a p b q   r   s
 
 
-# Approach 1 : Two pointers
+# Approach 1 : Brute Force
+# Time complexity : 0(n+m)
+# Space complexity : 0(n+m)
+
+# Approach 2 : Two pointers
 # Time complexity : 0(n+m)
 # Space complexity : 0(n+m)
 
